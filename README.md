@@ -6,10 +6,6 @@
 * To this day I am looking for myself, but I already know that I want to develop in the field of programming, big data and business development strategies.
 * Now I'm studying Java, modeling business processes, and my ultimate goal is to work in a company that develops software for business development.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <h2>My Skills</h2>
 
 <p align="left">
