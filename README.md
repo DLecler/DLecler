@@ -14,10 +14,9 @@
 <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width=49> </a>
 <a> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mysql-14-616526.png" width=52> </a>
 <a href="https://www.mongodb.com/"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width=52> </a> 
-<a href="https://mariadb.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaa7o3k2ASEIZYCcPWOxlx66r4TN0JulEZyzgB5P0JnAD9AWIbZ10TJDGn3oSEZKlddgI&usqp=CAU" width=52> </a>
-<a href="https://www.navicat.com/ru/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KxH4Q5HuuepFnorBgffOfTi1lMdolkV11A&usqp=CAU" width=52> </a>
+<a href="https://mariadb.org/"> <img src="https://spintopventures.com/wp-content/uploads/2015/03/mariadb_2@2x.png" width=52> </a>
 <a> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=52> </a>
-
+<a> <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width=54> </a>
 
 <h2>My Socials</h2>
 <p>
