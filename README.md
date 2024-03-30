@@ -9,24 +9,27 @@
 <h2>My Skills</h2>
 
 <p align="left">
-<a> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" width=33> </a>
+<a> <img src="https://img.icons8.com/?size=64&id=46630&format=png" width=52> </a>
 <a> <img src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" width=64> </a>
-<a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width=49> </a>
-<a> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mysql-14-616526.png" width=52> </a>
-<a href="https://www.mongodb.com/"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width=52> </a> 
-<a href="https://mariadb.org/"> <img src="https://spintopventures.com/wp-content/uploads/2015/03/mariadb_2@2x.png" width=52> </a>
-<a> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=52> </a>
-<a> <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width=54> </a>
+<a> <img src="https://img.icons8.com/?size=80&id=F7REdHlg6KJX&format=png" width=52> </a>
+<a> <img src="https://img.icons8.com/?size=48&id=ksMs0PlzI1vG&format=png" width=52> </a>
+<a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png" width=52> </a> 
+<a href="https://mariadb.org/"> <img src="https://img.icons8.com/?size=48&id=DakakaPez2uy&format=png" width=45> </a>
+<a> <img src="https://img.icons8.com/?size=64&id=xBKl2pdJg5kk&format=png" width=52> </a>
+<a> <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width=52> </a>
+<a> <img src="https://img.icons8.com/?size=64&id=121464&format=png" width=52> </a>
+<a> <img src="https://img.icons8.com/?size=48&id=PyrC8m2e1FtU&format=png" width=45> </a>
 
 <h2>My Socials</h2>
 <p>
-<a href="https://vk.com/d.lecler"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" width=47> </a>
-<a href="https://t.me/Denis_Lecler"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" width=47> </a>
+<a href="https://vk.com/d.lecler"> <img src="https://img.icons8.com/?size=48&id=ggovGWI16G39&format=png" width=47> </a>
+<a href="https://t.me/Denis_Lecler"> <img src="https://github.com/DLecler/DLecler/assets/162699814/0a44b000-c260-4386-a561-bec73f956318" width=47> </a>
 </p>
 
 <h2>My Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlecler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917)](https://github.com/dlecler/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlecler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917)](https://github.com/dlecler/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlecler&title_color=0891b2&text_color=ffffff&bg_color=1c1917)](https://github.com/dlecler/github-readme-stats)
+
 
