@@ -28,8 +28,6 @@
 
 <h2>My Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlecler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917)](https://github.com/dlecler/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlecler&title_color=0891b2&text_color=ffffff&bg_color=1c1917)](https://github.com/dlecler/github-readme-stats)
 
 
