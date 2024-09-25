@@ -14,6 +14,7 @@
 <a> <img src="https://img.icons8.com/?size=80&id=F7REdHlg6KJX&format=png" width=52> </a>
 <a> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width=49> </a> 
 <a> <img src="https://img.icons8.com/?size=48&id=ksMs0PlzI1vG&format=png" width=52> </a>
+<a> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width=45> </a>
 <a> <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width=45> </a>
 <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png" width=52> </a> 
 <a href="https://mariadb.org/"> <img src="https://img.icons8.com/?size=48&id=DakakaPez2uy&format=png" width=45> </a>
@@ -21,8 +22,8 @@
 <a> <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width=52> </a>
 <a> <img src="https://img.icons8.com/?size=64&id=121464&format=png" width=52> </a>
 <a> <img src="https://img.icons8.com/?size=48&id=PyrC8m2e1FtU&format=png" width=45> </a>
-<a> <img src="https://image.similarpng.com/very-thumbnail/2020/04/WhatsApp-logo-modern-paint-splash-social-media-png.png" width=45> </a>
-
+<a> <img src="https://cdn-icons-png.flaticon.com/128/1383/1383269.png" width=45> </a>
+<a> <img src="https://cdn-icons-png.flaticon.com/128/8285/8285804.png" width=45> </a>
 
 <h2>My Socials</h2>
 <p>
