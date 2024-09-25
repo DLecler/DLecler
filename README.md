@@ -21,6 +21,8 @@
 <a> <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" width=52> </a>
 <a> <img src="https://img.icons8.com/?size=64&id=121464&format=png" width=52> </a>
 <a> <img src="https://img.icons8.com/?size=48&id=PyrC8m2e1FtU&format=png" width=45> </a>
+<a> <img src="https://image.similarpng.com/very-thumbnail/2020/04/WhatsApp-logo-modern-paint-splash-social-media-png.png" width=45> </a>
+
 
 <h2>My Socials</h2>
 <p>
