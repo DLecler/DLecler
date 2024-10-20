@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>😋</h1>
 <h3 align="center">Growing specialist in the digital world</h3>
 
-* I am a 3rd year student at MSTU “STANKIN”, Department of Data Management and Informatics in Technical Systems.
+* I am a 4rd year student at MSTU “STANKIN”, Department of Data Management and Informatics in Technical Systems.
 * To this day I am looking for myself, but I already know that I want to develop in the field of programming, big data and business development strategies.
 * Now I'm studying Java, modeling business processes, and my ultimate goal is to work in a company that develops software for business development.
 
